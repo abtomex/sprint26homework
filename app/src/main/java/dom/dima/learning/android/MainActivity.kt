@@ -15,21 +15,21 @@ class MainActivity : ComponentActivity() {
         setContent {
             ContactView(
                 Contact(
-//                    name = "Олег",
-//                    surname = "Олегович",
-//                    familyName = "Олегов",
-//                    phone = "-",
-//                    address = "г. Москва, 3-я улица Строителей, д. 25, кв. 15",
-//                    email = "oleg@yemeyl.com",
-//                    imageRes = R.drawable.photo
-
-                    name = "Евгений",
-                    surname = "Андреевич",
-                    familyName = "Лукашин",
-                    phone = "+7 495 495 95 95",
-                    address = "г. Москва, 3-я улица Строителей, д. 25, кв. 12",
-                    email = "zhenya@yemeyl.com",
-                    isFavorite = true
+                    name = "Олег",
+                    surname = "Олегович",
+                    familyName = "Олегов",
+                    phone = "-",
+                    address = "г. Москва, 3-я улица Строителей, д. 25, кв. 15",
+                    email = "oleg@yemeyl.com",
+                    imageRes = R.drawable.photo
+//
+//                    name = "Евгений",
+//                    surname = "Андреевич",
+//                    familyName = "Лукашин",
+//                    phone = "+7 495 495 95 95",
+//                    address = "г. Москва, 3-я улица Строителей, д. 25, кв. 12",
+//                    email = "zhenya@yemeyl.com",
+//                    isFavorite = true
                 )
             )
 
