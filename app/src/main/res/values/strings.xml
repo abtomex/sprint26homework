@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sprint26 homework</string>
+    <string name="standard_icon">Стандартная иконка</string>
+    <string name="phone">Телефон</string>
+    <string name="address">Адрес</string>
+    <string name="email">E-mail</string>
+    <string name="contact_photo">фото контакта</string>
+</resources>
